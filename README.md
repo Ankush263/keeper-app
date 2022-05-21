@@ -1,3 +1,15 @@
+ sneak peek:
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/86042508/153018775-d48e395b-6436-43bb-8b09-08f8ec072689.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -78,17 +90,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-//CHALLENGE:
-//1. Implement the add note functionality.
-//- Create a constant that keeps track of the title and content.
-//- Pass the new note back to the App.
-//- Add new note to an array.
-//- Take array and render seperate Note components for each item.
-
-//2. Implement the delete note functionality.
-//- Callback from the Note component to trigger a delete function.
-//- Use the filter function to filter out the item that needs deletion.
-//- Pass a id over to the Note component, pass it back to the App when deleting.
-
-//This is the end result you're aiming for:
-//https://pogqj.csb.app/
